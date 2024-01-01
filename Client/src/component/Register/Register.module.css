@@ -1,0 +1,25 @@
+.register {
+    width: 400px;
+    background: #0F4C75;
+    border: 1px solid #BBE1FA;
+    box-shadow: #BBE1FA;
+    border-radius: 8px;
+    padding: 1rem;
+    align-items: center;
+    text-align: center;
+    font-family: 'Arial', sans-serif; 
+    color: white; /* Add this line to set the font color to white */
+
+
+}
+
+.register > form input {
+    border-radius: 20px;
+    border: 2px solid lightgrey;
+    outline: none;
+    color: #1d2129;
+    margin: 2% 0;
+    width: 90%;
+    padding: 12px;
+    font-size: 16px;
+}

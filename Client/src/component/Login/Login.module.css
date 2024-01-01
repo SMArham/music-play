@@ -1,0 +1,27 @@
+.login {
+  width: 400px;
+  background: #0F4C75;
+  border: 1px solid #BBE1FA;
+  box-shadow: #BBE1FA;
+  border-radius: 8px;
+  padding: 1rem;
+  align-items: center;
+  text-align: center;
+  font-family: 'Arial', sans-serif; 
+  color: white; 
+
+
+}
+
+.login > form input {
+  border-radius: 20px;
+  border: 2px solid lightgrey;
+  outline: none;
+  color: #291d29;
+  margin: 2% 0;
+  width: 90%;
+  padding: 12px;
+  font-size: 16px;
+}
+
+
